@@ -10,11 +10,4 @@ Descripcion del Caso de Uso (Monitoreo de cámara en timepo real)
 | Nombre | Solicitar componentes |
 | --- | --- |
 | Actores | Usuario |
-| Fujo Normal | 
-1. Usuario selecciona el equipo <br>
-2. Usuario elige Fecha y Hora <br>
-3. Usuario elige la cámara <br>
-4. Usuario reproduce video <br>
-5. Usuario pasua video <br>
-6. Usuario detiene video
-|
+| Fujo Normal | 1. Usuario selecciona el equipo <br>2. Usuario elige Fecha y Hora <br>3. Usuario elige la cámara <br>4. Usuario reproduce video <br>5. Usuario pasua video <br>6. Usuario detiene video |
