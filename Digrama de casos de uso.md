@@ -10,4 +10,8 @@ Descripcion del Caso de Uso (Monitoreo de cámara en timepo real)
 | Nombre | Solicitar componentes |
 | --- | --- |
 | Actores | Usuario |
-| Fujo Normal | 1. |
+| Fujo Normal | 1.
+2. 
+3. 
+4. 
+5. |
