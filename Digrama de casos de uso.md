@@ -1,4 +1,5 @@
 Diagrama de casos de Uso
+Este diagrama de caso de uso corresponde a Gestión de flotas / Gestión de vehículos / Integración con proveedores externos.
 
 1. Caso de Uso (Monitoreo de cámara en timepo real)
 
