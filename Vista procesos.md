@@ -17,3 +17,9 @@ Este diagrama describe cómo el Usuario accede al sistema web 2.0 de Kbus. Una v
 
 
 [![Diagrama-de-secuencia-(1).png](https://i.postimg.cc/5NktwfWx/Diagrama-de-secuencia-(1).png)](https://postimg.cc/jLPKT0j9)
+
+### Explicación:
+Este diagrama describe cómo el Usuario accede al sistema web 2.0 de Kbus. Una vez autenticado,puede visualizar el video de tiempo atrás realizando los siguientes pasos: <br>
+- Seleccionar Equipo
+- Seleccionar cámara
+- Seleccionar Fecha y Hora
