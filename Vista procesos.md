@@ -1,3 +1,3 @@
 
 
-[![Diagrama-de-secuencia-(1).png](https://i.postimg.cc/qMdnyZ1T/Diagrama-de-secuencia-(1).png)](https://postimg.cc/xqtcSgrx)
+[![Diagrama-de-secuencia.png](https://i.postimg.cc/jdZ528mK/Diagrama-de-secuencia.png)](https://postimg.cc/8jfDnbTn)
